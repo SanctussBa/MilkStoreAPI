@@ -49,7 +49,7 @@ From your command line, first clone this repo:
 
 3. Open MilkStoreAPI folder with your IDE
 
-4. Go into appsettings.json file and change `ConnectionStrings`
+4. Go into appsettings.json file and change `ConnectionString` fill your database name and password. (User Id by default should be "sa", please change if in your case is custum Id)
 ```json
 "DataContext": "Server=localhost;Database=[your DB name];User Id=sa;Password=[your password];TrustServerCertificate=True"
 
