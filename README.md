@@ -1,4 +1,4 @@
-# MilkStoreAPI
+# Milk Store API | ASP.Net Web API | C#
 
 ## What is this project about?
 
